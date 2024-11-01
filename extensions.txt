@@ -1,0 +1,189 @@
+.com, Default
+
+
+
+.com.af, Afghanistan
+.dz, Algeria
+.as, American Samoa
+.ad, Andorra
+.co.ao, Angola
+.com.ai, Anguilla
+.com.ag, Antigua and Barbuda
+.com.ar, Argentina
+.am, Armenia
+.com.au, Australia
+.at, Austria
+.az, Azerbaijan
+.com.bh, Bahrain
+.com.bd, Bangladesh
+.by, Belarus
+.be, Belgium
+.com.bz, Belize
+.bj, Benin
+.com.bo, Bolivia
+.ba, Bosnia and Herzegovina
+.co.bw, Botswana
+.com.br, Brasil
+.com.br, Brazil
+.vg, British Virgin Islands
+.com.bn, Brunei
+.bg, Bulgaria
+.bf, Burkina Faso
+.bi, Burundi
+.com.kh, Cambodia
+.cm, Cameroun
+.ca, Canada
+.cf, Central African Republic
+.td, Chad
+.cl, Chile
+.cn, China
+.com.co, Colombia
+.co.ck, Cook Islands
+.co.cr, Costa Rica
+.ci, Côte d'Ivoire
+.hr, Croatia
+.com.cu, Cuba
+.cz, Czech Republic
+.cd, Democratic Republic of the Congo
+.dk, Denmark
+.dj, Djibouti
+.dm, Dominica
+.com.do, Dominican Republic
+.com.ec, Ecuador
+.com.eg, Egypt
+.com.sv, El Salvador
+.ee, Estonia
+.com.et, Ethiopia
+.com.fj, Fiji
+.fi, Finland
+.fr, France
+.ga, Gabon
+.ge, Georgia
+.de, Germany
+.com.gh, Ghana
+.com.gi, Gibraltar
+.gr, Greece
+.gl, Greenland
+.gp, Guadeloupe
+.com.gt, Guatemala
+.gg, Guernsey
+.gy, Guyana
+.ht, Haiti
+.hn, Honduras
+.com.hk, Hong Kong
+.hu, Hungary
+.is, Iceland
+.co.in, India
+.co.in, India
+.co.id, Indonesia
+.iq, Iraq
+.ie, Ireland
+.im, Isle of Man
+.co.il, Israel
+.it, Italia
+.com.jm, Jamaica
+.co.jp, Japan
+.je, Jersey
+.jo, Jordan
+.kz, Kazakhstan
+.co.ke, Kenya
+.ki, Kiribati
+.com.kw, Kuwait
+.kg, Kyrgyzstan
+.la, Laos
+.lv, Latvia
+.com.lb, Lebanon
+.co.ls, Lesotho
+.com.ly, Libya
+.li, Liechtenstein
+.lt, Lithuania
+.lu, Luxemburg
+.mk, Macedonia
+.mg, Madagascar
+.mw, Malawi
+.com.my, Malaysia
+.mv, Maldives
+.ml, Mali
+.com.mt, Malta
+.mu, Mauritia
+.com.mx, Mexico
+.fm, Micronesia
+.md, Moldova
+.mn, Mongolia
+.me, Montenegro
+.ms, Montserrat
+.co.ma, Morocco
+.co.mz, Mozambique
+.com.na, Namibia
+.nr, Nauru
+.com.np, Nepal
+.nl, Netherlands
+.co.nz, New Zealand
+.com.ni, Nicaragua
+.ne, Niger
+.com.ng, Nigeria
+.nu, Niue
+.com.nf, Norfolk Island
+.no, Norway
+.com.om, Oman
+.com.pk, Pakistan
+.ps, Palestine
+.com.pa, Panama
+.com.py, Paraguay
+.com.pe, Peru
+.com.ph, Philippines
+.pn, Pitcairn Islands
+.pl, Poland
+.pt, Portugal
+.com.pr, Puerto Rico
+.com.qa, Qatar
+.cg, Republic of the Congo
+.ro, Romania
+.ru, Russia
+.rw, Rwanda
+.sh, Saint Helena
+.ws, Samoa
+.sm, San Marino
+.st, São Tomé and Príncipe
+.com.sa, Saudi Arabia
+.sn, Sengal
+.rs, Serbia
+.sc, Seychelles
+.com.sl, Sierra Leone
+.com.sg, Singapore
+.sk, Slovakia
+.si, Slovenia
+.com.sb, Solomon Islands
+.so, Somalia
+.co.za, South Africa
+.co.kr, South Korea
+.es, Spain
+.lk, Sri Lanka
+.se, Sweden
+.ch, Switzerland
+.com.tw, Taiwan
+.com.tj, Tajikistan
+.co.tz, Tanzania
+.co.th, Thailand
+.bs, The Bahamas
+.gm, The Gambia
+.tl, Timor-Leste
+.tg, Togo
+.tk, Tokelau
+.to, Tonga
+.tt, Trinidad and Tobago
+.tn, Tunis
+.com.tr, Turkey
+.tm, Turkmenistan
+.co.ug, Uganda
+.co.uk, United Kingdom
+.com.ua, Ukraine
+.ae, United Arab Emirates
+.com.uy, Uruguay
+.co.uz, Uzbekistan
+.vu, Vanuatu
+.co.ve, Venezuela
+.com.vn, Vietnam
+.co.vi, Virgin Islands
+.co.zm, Zambia
+.co.zw, Zimbabwe
